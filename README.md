@@ -4,9 +4,7 @@ I took inspiration from the [Fortnite VS Code Theme](https://marketplace.visuals
 
 ## Author Links
 
-👋 Hello, I'm Fizan Iqbal.
-
-☕ [Buy Me A Coffee](https://www.buymeacoffee.com/se.fizaniqbal)
+👋 Hello, I'm Fizan Iqbal, self-motivated developer at age of 20.
 
 🚀 Follow Me:
 
