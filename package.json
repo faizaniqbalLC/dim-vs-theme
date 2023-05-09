@@ -1,0 +1,35 @@
+{
+  "name": "dim-vs-theme",
+  "displayName": "Dim vs Theme",
+  "description": "Dim Theme for eyes issues people!",
+  "version": "0.0.1",
+  "publisher": "FizanDevSimplified",
+  "icon": "assets/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faizaniqbalLC/dim-vs-theme"
+  },
+  "keywords": [
+    "theme",
+    "light theme",
+    "coder coder",
+    "the dim theme",
+    "coder coder dim",
+    "FizanDevSimplified"
+  ],
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dim Theme For Devs",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dimTheme.json"
+      }
+    ]
+  }
+}
