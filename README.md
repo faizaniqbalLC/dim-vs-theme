@@ -1,4 +1,4 @@
-# Dim vs Theme 
+# Dim vs Theme
 
 I took inspiration from the [Fortnite VS Code Theme](https://marketplace.visualstudio.com/items?itemName=sdras.fortnite-vscode-theme) and the [Coder Coder Dark](https://marketplace.visualstudio.com/items?itemName=CoderCoder.codercoder-dark-theme) themes.
 
