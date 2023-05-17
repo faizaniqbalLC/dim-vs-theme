@@ -4,7 +4,7 @@ I took inspiration from the [Fortnite VS Code Theme](https://marketplace.visuals
 
 ## Author Links
 
-👋 Hello, I'm Fizan Iqbal, self-motivated developer at age of 20.
+👋 Hello, I'm Fizan Iqbal, self-motivated JavaScript developer at age of 20.
 
 🚀 Follow Me:
 
@@ -12,7 +12,7 @@ I took inspiration from the [Fortnite VS Code Theme](https://marketplace.visuals
 - [LinkedIn](https://www.linkedin.com/in/muhammad-fizan-iqbal/)
 - [Reddit](https://www.reddit.com/user/se-fizan)
 
-Will be maintaining this as I have time, thanks for your understanding!🙏🏽
+Will be maintaining this as I have time, thanks for your understanding! 🙏🏽
 
 ## Screenshots
 
